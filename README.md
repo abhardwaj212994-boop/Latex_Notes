@@ -26,18 +26,12 @@ An advanced Retrieval-Augmented Generation (RAG) pipeline that automatically gen
 
 ### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/rag-latex-generator.git
-   cd rag-latex-generator
-   ```
-
-2. **Install dependencies:**
+1. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set up API key:**
+2. **Set up API key:**
    ```bash
    cp .env.example .env
    # Edit .env and add your ANTHROPIC_API_KEY
